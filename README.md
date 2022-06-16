@@ -1,3 +1,3 @@
 # clothing_website
 
-https://vedant2709.github.io/clothing_website/ tap here for quick preview
+https://vedant2709.github.io/clothing_website/page.html tap here for quick preview
